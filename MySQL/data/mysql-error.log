@@ -36,3 +36,7 @@
 2021-03-17T02:43:21.175854Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
 2021-03-17T02:59:14.898256Z 0 [System] [MY-013105] [Server] D:\AppServ\MySQL\bin\mysqld: Normal shutdown.
 2021-03-17T02:59:15.916899Z 0 [System] [MY-010910] [Server] D:\AppServ\MySQL\bin\mysqld: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2021-03-17T02:59:27.779705Z 0 [System] [MY-010116] [Server] D:\AppServ\MySQL\bin\mysqld (mysqld 8.0.17) starting as process 4024
+2021-03-17T02:59:29.168306Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-03-17T02:59:29.203435Z 0 [System] [MY-010931] [Server] D:\AppServ\MySQL\bin\mysqld: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-03-17T02:59:29.445911Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
